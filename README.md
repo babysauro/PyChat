@@ -4,6 +4,8 @@ Hello 👋
 PyChat is a simple chatbot application built using the OpenAI API and Python. 
 This repository contains the source code for a command-line chatbot that uses the GPT-3.5-turbo model to respond to user input.
 
+The creation of this chatbot serves as a fun and engaging way to deepen my understanding of Python features and API integration, ultimately helping me enhance my skills as a developer.
+
 ## Features
 - You can interact with the chatbot using natural language input
 - The chatbot remembers previous messages and responds accordingly
